@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, my name is Jannik and i'm a professional Fullstack Developer from Germany 👋 
 
 <!--
 **jalorenz/jalorenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

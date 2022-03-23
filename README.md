@@ -1,4 +1,9 @@
-### Hi, my name is Jannik and i'm a professional Fullstack Developer from Germany 👋 
+### Hi, my name is Jannik 👋
+
+:house_with_garden: Living in Bremen, Germany <br/>
+:pouting_man: Full Stack Developer <br/>
+:blue_book: CPSA® Certified Professional for Software Architecture Foundation Level <br/>
+&nbsp;&nbsp;&nbsp; (https://www.isaqb.org/certifications/cpsa-certifications/cpsa-foundation-level/)
 
 <!--
 **jalorenz/jalorenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,8 +1,9 @@
 ### Hi, my name is Jannik 👋
 
-:house_with_garden: Living in Bremen, Germany <br/>
-:pouting_man: Full Stack Developer <br/>
-:blue_book: [CPSA® Certified Professional for Software Architecture Foundation Level](https://www.isaqb.org/certifications/cpsa-certifications/cpsa-foundation-level/) 
+- :pouting_man: Remote Full Stack Developer, mainly working with TypeScript<br/>
+- 🔭 Certificates:
+  - :blue_book: [CPSA® Certified Professional for Software Architecture Foundation Level](https://www.isaqb.org/certifications/cpsa-certifications/cpsa-foundation-level/) 
+- 👯 I’m looking to collaborate on any open-source projects with JavaScript/TypeScript stack
 
 <!--
 **jalorenz/jalorenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

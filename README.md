@@ -2,7 +2,9 @@
 
 - :pouting_man: Remote Full Stack Developer, mainly working with TypeScript<br/>
 - 🔭 Certificates:
-  - :blue_book: [CPSA® Certified Professional for Software Architecture Foundation Level](https://www.isaqb.org/certifications/cpsa-certifications/cpsa-foundation-level/) 
+  - :blue_book: [CPSA® Certified Professional for Software Architecture Foundation Level](https://www.isaqb.org/certifications/cpsa-certifications/cpsa-foundation-level/)
+  - :blue_book: [CPSA® Certified Professional for Software Architecture Advanced Level](https://www.isaqb.org/certifications/cpsa-certifications/cpsa-advanced-level/) (Ongoing)
+    - ✔️ [Flexible Architecture Models](https://www.isaqb.org/certifications/cpsa-certifications/cpsa-advanced-level/flex/)
 - 👯 I’m looking to collaborate on any open-source projects with JavaScript/TypeScript stack
 
 <!--

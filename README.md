@@ -5,7 +5,7 @@
   - :blue_book: [CPSA® Certified Professional for Software Architecture Foundation Level](https://www.isaqb.org/certifications/cpsa-certifications/cpsa-foundation-level/)
   - :blue_book: [CPSA® Certified Professional for Software Architecture Advanced Level](https://www.isaqb.org/certifications/cpsa-certifications/cpsa-advanced-level/) (Ongoing)
     - ✔️ [Flexible Architecture Models](https://www.isaqb.org/certifications/cpsa-certifications/cpsa-advanced-level/flex/)
-- 👯 I’m looking to collaborate on any open-source projects with JavaScript/TypeScript stack
+- 👯 I’m looking forward to collaborate on any open-source projects with JavaScript/TypeScript stack
 
 <!--
 **jalorenz/jalorenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
